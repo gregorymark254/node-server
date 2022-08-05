@@ -1,0 +1,5 @@
+20220618	17:54:51	3ae33730-8202-4cf1-ad36-7c0b6c774f66	Error: Not allowed by CORS
+20220618	17:59:37	fcb492ea-cadb-4dcc-a915-4040ba11c9c9	TypeError: path is not a function
+20220618	18:00:59	8d6247bb-7dfe-4fb8-a399-222681714b3c	TypeError: path is not a function
+20220618	18:08:35	ff36ced3-c163-47c6-8342-211cd2f40736	TypeError: path is not a function
+20220620	09:57:20	3ecc7080-3d33-4698-8790-947185a14873	ReferenceError: views is not defined
